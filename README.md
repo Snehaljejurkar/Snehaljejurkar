@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Snehaljejurkar
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning Power BI and Mysql
-- 💞️ I’m looking to collaborate on Pyton for data science
-- 📫 Reach out to me : snehaljjejurkar@gmail.com
+- 👀 I’m interested in data Science.
+- 🌱 I’m currently learning Deep learing and Generative AI.
+- 💞️ I’m looking to collaborate on Python for data science
+- 📫 Reach out to me : snehaljejurkar1999@gmail.com/
 
 <!---
 Snehaljejurkar/Snehaljejurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
